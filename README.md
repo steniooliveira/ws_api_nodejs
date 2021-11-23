@@ -44,7 +44,7 @@ Caso ocorra erro como o Nodemon abra o PowerShell como administrador e digite:
 Set-ExecutionPolicy RemoteSigned
 ```
 
-## Utilizando a aplicação
+## Utilizando a aplicação com Node
 ```powershell
 node app.js
 ```
