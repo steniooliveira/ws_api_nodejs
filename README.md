@@ -1,8 +1,8 @@
 # API Node.js
-Projeto simples utilizando Node.js
+Projeto simples utilizando Node.js.
 
 ## IDE
-Baixar e instalar a IDE Microsoft Visual Studio Code
+Baixar e instalar a IDE Microsoft Visual Studio Code.
 
 [VSCode](https://code.visualstudio.com/)
 
@@ -18,7 +18,7 @@ Baixar e instalar o Insomnia para testar a API.
 [Insominia](https://insomnia.rest/download)
 
 ## Projeto
-Criar diretório
+Criar diretório.
 
 Abrir terminal e digitar:
 
@@ -30,7 +30,7 @@ Instalar o Express para gerenciar requisições, rotas e URLs, dentre outras fun
 ```bash
 npm install express
 ```
-Instalar o Nodemon
+Instalar o Nodemon.
 ```bash
 npm i -g nodemon 
 ```
@@ -56,7 +56,7 @@ nodemon app.js
 
 ## Utilizando o Insominia
 - Abra o Insomina para testar a API.
-- Crie uma nova collection
+- Crie uma nova collection.
 - Crie uma nova request GET apontando para a URL abaixo:
 
   [http://localhost:8888](http://localhost:8888)
